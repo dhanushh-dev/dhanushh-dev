@@ -12,8 +12,8 @@
 • Dev Tools: GitHub, VS Code, Windows  
   
  📌 Projects I'm Proud Of
-• 🧠 YouTube AI Comment Moderator – Detects & removes toxic content via API using NLP  
-• 🔍 CyberShield Suite – Real-time phishing URL detection and dark web monitoring  
+• 🧠 AI-Driven Toxic Comment Moderation and Deletion on YouTube via Automated API Integration – Detects & removes toxic content via API using NLP  
+• 🔍 CyberShield Suite – Dynamic Phishing Link Detector and Deep Web Threat Tracking  
 • 🧑‍💻 Keylogger Detection Tool – ML-based system to identify and neutralize keyloggers  
 • 🔒VulnScanX – Python-based automated vulnerability scanner for local networks  
 
